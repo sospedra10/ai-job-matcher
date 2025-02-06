@@ -39,7 +39,11 @@ pip install -r requirements.txt
 4. Create a `.env` file in the project root and add your OpenAI API key:
 ```
 OPENAI_API_KEY=your_api_key_here
+
 ```
+
+5. Download allJobs.csv from Kaggle: https://www.kaggle.com/datasets/dilshaansandhu/international-jobs-dataset
+
 
 ## Required Dependencies
 
